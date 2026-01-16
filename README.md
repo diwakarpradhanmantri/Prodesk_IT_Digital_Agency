@@ -28,13 +28,12 @@ A responsive and modern landing page built using **only HTML and CSS**. This pro
 
 ---
 
-## How to Run  
-Open `index.html` in any web browser.
+
 
 ---
 
 ## Author  
-Your Name Here
+DIWAKAR KUMAR
 
 
 
