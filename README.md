@@ -14,8 +14,8 @@ A responsive and modern landing page built using **only HTML and CSS**. This pro
 ---
 
 ## Technologies Used  
-- HTML5  
-- CSS3  
+- HTML 
+- CSS 
 
 ---
 
